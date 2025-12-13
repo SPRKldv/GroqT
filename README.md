@@ -40,4 +40,4 @@ python main.py
 ```
 exit или CTRL + C (+ Z тоже можно если немедленно завершить)
 ```
-![console](src.jpg)
+![console](scr.jpg)
