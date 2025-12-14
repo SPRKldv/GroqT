@@ -11,7 +11,7 @@
 ## Установка
 ```
 git clone https://github.com/SPRKldv/GroqT.git
- cd GroqT
+cd GroqT
 pip install groq rgbprint
 ```
 
